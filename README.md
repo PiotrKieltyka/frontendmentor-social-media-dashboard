@@ -1,3 +1,10 @@
+
+### My solution @ github pages
+https://piotrkieltyka.github.io/frontendmentor-social-media-dashboard/
+
+
+---
+
 # Frontend Mentor - Social media dashboard with theme switcher
 
 ![Design preview for the Social media dashboard with theme switcher coding challenge](./design/desktop-preview.jpg)
